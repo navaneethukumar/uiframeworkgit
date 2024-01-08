@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="6" parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test parallel="tests" name=" chrome Test222(failed)">
+    <parameter name="browser" value="ff"/>
+    <classes>
+      <class name="com.qa.crossbrowser_naresh.crossbrowsertesting_naresh">
+        <methods>
+          <include name="startapplication" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.qa.crossbrowser_naresh.crossbrowsertesting_naresh -->
+    </classes>
+  </test> <!--  chrome Test222(failed) -->
+</suite> <!-- Failed suite [Suite] -->

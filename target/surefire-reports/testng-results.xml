@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-08T03:27:40Z" name="Suite" finished-at="2024-01-08T03:27:45Z" duration-ms="4460">
+    <groups>
+    </groups>
+    <test started-at="2024-01-08T03:27:40Z" name=" chrome Test222" finished-at="2024-01-08T03:27:45Z" duration-ms="4460">
+      <class name="com.qa.crossbrowser_naresh.crossbrowsertesting_naresh">
+        <test-method signature="startapplication(java.lang.String)[pri:0, instance:com.qa.crossbrowser_naresh.crossbrowsertesting_naresh@3b5fad2d]" started-at="2024-01-08T08:57:40Z" name="startapplication" finished-at="2024-01-08T08:57:45Z" duration-ms="4417" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startapplication -->
+      </class> <!-- com.qa.crossbrowser_naresh.crossbrowsertesting_naresh -->
+    </test> <!--  chrome Test222 -->
+  </suite> <!-- Suite -->
+</testng-results>
