@@ -2,7 +2,7 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Suite" thread-count="6" parallel="tests">
   <test name=" chrome Test222">
-  <parameter name="browser" value="edge"></parameter>
+  <parameter name="browser" value="chrome"></parameter>
     <classes>
       <class name="com.qa.crossbrowser_naresh.crossbrowsertesting_naresh"/>
     </classes>
